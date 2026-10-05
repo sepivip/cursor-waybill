@@ -8,7 +8,7 @@ This is not a Cursor Marketplace listing. Do not file https://cursor.com/marketp
 
 ## What it installs
 
-A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You still need a waybill.ge account and connected RS.GE credentials.
+A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You still need a waybill.ge account and at least one connected system (RS.GE or Balance). Balance access is read-only.
 
 ## Local verify
 
