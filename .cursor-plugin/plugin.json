@@ -1,7 +1,7 @@
 {
   "name": "cursor-waybill",
   "displayName": "waybill.ge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hosted MCP for Georgian RS.GE e-waybills at https://waybill.ge/mcp/.",
   "author": {
     "name": "waybill.ge",
@@ -12,4 +12,3 @@
   "keywords": ["waybill", "rs.ge", "mcp", "georgia"],
   "logo": "assets/logo.svg"
 }
-
