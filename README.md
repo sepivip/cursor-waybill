@@ -2,13 +2,13 @@
 
 Cursor plugin package for the hosted waybill.ge MCP server.
 
-MCP URL: `https://waybill.ge/mcp/`
+MCP URL: `https://waybill.ge/mcp`
 
 This is not a Cursor Marketplace listing. Do not file https://cursor.com/marketplace/publish until the owner asks after merge.
 
 ## What it installs
 
-A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You still need a waybill.ge account and connected RS.GE credentials.
+A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You still need a waybill.ge account and at least one connected system (RS.GE, Balance or QuickShipper). Balance and QuickShipper access is read-only.
 
 ## Local verify
 
@@ -22,7 +22,7 @@ A remote Streamable HTTP MCP server named `waybill`. After install, Cursor promp
 {
   "mcpServers": {
     "waybill": {
-      "url": "https://waybill.ge/mcp/"
+      "url": "https://waybill.ge/mcp"
     }
   }
 }
@@ -30,7 +30,7 @@ A remote Streamable HTTP MCP server named `waybill`. After install, Cursor promp
 
 One-click install (custom MCP connection, not Marketplace):
 
-- Deeplink: `cursor://anysphere.cursor-deeplink/mcp/install?name=waybill&config=eyJ1cmwiOiJodHRwczovL3dheWJpbGwuZ2UvbWNwLyJ9`
-- Web helper: `https://cursor.com/en/install-mcp?name=waybill&config=eyJ1cmwiOiJodHRwczovL3dheWJpbGwuZ2UvbWNwLyJ9`
+- Deeplink: `cursor://anysphere.cursor-deeplink/mcp/install?name=waybill&config=eyJ1cmwiOiJodHRwczovL3dheWJpbGwuZ2UvbWNwIn0=`
+- Web helper: `https://cursor.com/en/install-mcp?name=waybill&config=eyJ1cmwiOiJodHRwczovL3dheWJpbGwuZ2UvbWNwIn0=`
 
 Public install copy lives on https://waybill.ge/developers after that page ships.
