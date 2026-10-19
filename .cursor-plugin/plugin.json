@@ -1,14 +1,14 @@
 {
   "name": "cursor-waybill",
   "displayName": "waybill.ge",
-  "version": "0.3.0",
-  "description": "Hosted MCP for Georgian RS.GE e-waybills and e-invoices, read-only Balance.ge and 1C (OneSoft) accounting and QuickShipper deliveries at https://waybill.ge/mcp.",
+  "version": "0.4.0",
+  "description": "Hosted MCP for Georgian RS.GE e-waybills and e-invoices, read-only Balance.ge and 1C (OneSoft) accounting, QuickShipper deliveries and Bank of Georgia accounts at https://waybill.ge/mcp.",
   "author": {
     "name": "waybill.ge",
     "email": "hello@waybill.ge"
   },
   "homepage": "https://waybill.ge/developers",
   "repository": "https://github.com/sepivip/cursor-waybill",
-  "keywords": ["waybill", "rs.ge", "balance.ge", "quickshipper", "1c", "onesoft", "mcp", "georgia"],
+  "keywords": ["waybill", "rs.ge", "balance.ge", "quickshipper", "1c", "onesoft", "bank", "mcp", "georgia"],
   "logo": "assets/logo.svg"
 }
