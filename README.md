@@ -8,7 +8,7 @@ This is not a Cursor Marketplace listing. Do not file https://cursor.com/marketp
 
 ## What it installs
 
-A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You still need a waybill.ge account and at least one connected system (RS.GE, Balance, QuickShipper, a 1C (OneSoft) publication or Bank of Georgia). Balance, QuickShipper, 1C and Bank of Georgia access is read-only: waybill.ge cannot make payments or transfers at the bank. The public registry (NAPR) company, lien and property lookups and the National Bank of Georgia's official exchange rates need no connected system; they look up companies and property, not people.
+A remote Streamable HTTP MCP server named `waybill`. After install, Cursor prompts you to authorize with waybill.ge (OAuth). You need a waybill.ge account. The public registry (NAPR) company, lien and property lookups and the National Bank of Georgia's official exchange rates need nothing else; they look up companies and property, not people. Every other workflow needs its system connected in waybill.ge (RS.GE, Balance, QuickShipper, a 1C (OneSoft) publication or Bank of Georgia). Balance, QuickShipper, 1C and Bank of Georgia access is read-only: waybill.ge cannot make payments or transfers at the bank.
 
 ## Local verify
 
