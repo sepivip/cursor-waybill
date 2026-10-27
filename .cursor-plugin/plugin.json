@@ -1,7 +1,7 @@
 {
   "name": "cursor-waybill",
   "displayName": "waybill.ge",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Hosted MCP for Georgian RS.GE e-waybills and e-invoices, read-only Balance.ge and 1C (OneSoft) accounting, QuickShipper deliveries and Bank of Georgia accounts, plus public registry (NAPR) and NBG exchange rate lookups, at https://waybill.ge/mcp.",
   "author": {
     "name": "waybill.ge",
