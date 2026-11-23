@@ -12,6 +12,8 @@ A remote Streamable HTTP MCP server named `waybill`. After install, Cursor promp
 
 With RS.GE connected, ask Cursor to list issued or received special invoices
 for petroleum products and show the goods, quantities and amounts on an invoice.
+As the buyer, Cursor can confirm or reject (with a reason) a special invoice a
+supplier sent, or confirm the supplier's cancellation, after you confirm it.
 
 When waybill.ge's tools change, the server asks connected clients to fetch the tool list again. If Cursor still shows outdated tools after an update, reconnect the `waybill` MCP server in Cursor's MCP settings.
 
